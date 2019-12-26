@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/quizapp/static/css/main.ed0c20bd.chunk.css",
+    "main.js": "/quizapp/static/js/main.07bc4c23.chunk.js",
+    "main.js.map": "/quizapp/static/js/main.07bc4c23.chunk.js.map",
+    "runtime-main.js": "/quizapp/static/js/runtime-main.e932e1f2.js",
+    "runtime-main.js.map": "/quizapp/static/js/runtime-main.e932e1f2.js.map",
+    "static/css/2.03b28e72.chunk.css": "/quizapp/static/css/2.03b28e72.chunk.css",
+    "static/js/2.311022a4.chunk.js": "/quizapp/static/js/2.311022a4.chunk.js",
+    "static/js/2.311022a4.chunk.js.map": "/quizapp/static/js/2.311022a4.chunk.js.map",
+    "index.html": "/quizapp/index.html",
+    "precache-manifest.2a799c14628750022e5830d6c89e9fea.js": "/quizapp/precache-manifest.2a799c14628750022e5830d6c89e9fea.js",
+    "service-worker.js": "/quizapp/service-worker.js",
+    "static/css/2.03b28e72.chunk.css.map": "/quizapp/static/css/2.03b28e72.chunk.css.map",
+    "static/css/main.ed0c20bd.chunk.css.map": "/quizapp/static/css/main.ed0c20bd.chunk.css.map",
+    "static/js/2.311022a4.chunk.js.LICENSE": "/quizapp/static/js/2.311022a4.chunk.js.LICENSE",
+    "static/media/answer.png": "/quizapp/static/media/answer.f05e37d5.png",
+    "static/media/styles.scss": "/quizapp/static/media/background.c0302796.jpg",
+    "static/media/button-sound.mp3": "/quizapp/static/media/button-sound.32194199.mp3",
+    "static/media/correct-answer.mp3": "/quizapp/static/media/correct-answer.ee6aadae.mp3",
+    "static/media/fiftyFifty.PNG": "/quizapp/static/media/fiftyFifty.f06f3bfe.PNG",
+    "static/media/hints.PNG": "/quizapp/static/media/hints.145bf217.PNG",
+    "static/media/materialdesignicons.min.css": "/quizapp/static/media/materialdesignicons-webfont.f81583fc.eot",
+    "static/media/options.PNG": "/quizapp/static/media/options.0ab14d14.PNG",
+    "static/media/wrong-answer.mp3": "/quizapp/static/media/wrong-answer.c7106542.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e932e1f2.js",
+    "static/css/2.03b28e72.chunk.css",
+    "static/js/2.311022a4.chunk.js",
+    "static/css/main.ed0c20bd.chunk.css",
+    "static/js/main.07bc4c23.chunk.js"
+  ]
+}
